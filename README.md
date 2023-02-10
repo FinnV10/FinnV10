@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm St0rmster! </h1>
+<h1 align="center">Hi, I'm St0rmster! </h1>
 
 <p align="left" width="47%"> <img src="https://komarev.com/ghpvc/?username=St0rmster&label=Profile%20views&color=0e75b6&style=flat" alt="St0rmster" /> </p>
 
